@@ -1,5 +1,6 @@
 package com.example.demo.Dtos;
 
+import com.example.demo.models.Ticket;
 
 public class IssueTicketResponseDto
 {
